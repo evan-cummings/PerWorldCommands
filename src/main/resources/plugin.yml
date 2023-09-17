@@ -1,0 +1,8 @@
+name: PerWorldCommands
+version: '${project.version}'
+main: com.fletchplugins.perworldcommands.PerWorldCommands
+api-version: 1.18
+commands:
+  pw:
+    description: Run commands in specific worlds
+    usage: /pw
